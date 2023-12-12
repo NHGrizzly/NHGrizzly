@@ -14,5 +14,5 @@ I’m currently working on
 ### Top Languages:
 ![nhgrizzly](https://github-readme-stats.vercel.app/api/top-langs?username=nhgrizzly&show_icons=true&locale=en&layout=compact)
 
-### Stats
-![nhgrizzly](https://github-readme-stats.vercel.app/api?username=nhgrizzly&show_icons=true&locale=en)
+<!--### Stats
+![nhgrizzly](https://github-readme-stats.vercel.app/api?username=nhgrizzly&show_icons=true&locale=en)-->
